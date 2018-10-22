@@ -1,0 +1,12 @@
+.jumbotron{
+    background-image: url(background-final.jpg);
+    min-height: 80px;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+th[colspan="8"] {
+    text-align: center;
+}
