@@ -19,3 +19,7 @@ p {
     text-align: justify;
     font-size: 19px;
 }
+
+dd {
+    font-size: 17px;
+}
