@@ -1,3 +1,7 @@
+h2 {
+    color: #FF5805
+}
+
 .jumbotron{
     background-image: url(background-final.jpg);
     min-height: 80px;
