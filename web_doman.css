@@ -23,3 +23,7 @@ p {
 dd {
     font-size: 17px;
 }
+
+.my-padding {
+    mt-3, mb-3
+}
