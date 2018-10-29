@@ -36,5 +36,11 @@ dd {
 
 .mt-txt.mb-txt.pr-obr {
     padding-right: 40px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.pr-obr {
+    padding-right: 40px;
 }
 
