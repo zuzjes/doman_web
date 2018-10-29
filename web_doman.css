@@ -1,5 +1,5 @@
 h2 {
-    color: #FF5805
+    color: #083C40
 }
 
 .jumbotron{
@@ -24,6 +24,18 @@ dd {
     font-size: 17px;
 }
 
-.my-padding {
-    mt-3, mb-3
+.mt-obr {
+    margin-top: 4;
+}
+
+.mb-obr {
+    margin-bottom: 4;
+}
+
+.mt-txt {
+    margin-top: 5;
+}
+
+.mb-txt {
+    mrgin-bottom: 5;
 }
