@@ -24,18 +24,12 @@ dd {
     font-size: 17px;
 }
 
-.mt-obr {
-    margin-top: 4;
+.mt-obr.mb-obr  {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
-.mb-obr {
-    margin-bottom: 4;
-}
-
-.mt-txt {
-    margin-top: 5;
-}
-
-.mb-txt {
-    mrgin-bottom: 5;
+.mt-txt.mb-txt {
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
