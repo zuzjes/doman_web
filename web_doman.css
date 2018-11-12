@@ -51,3 +51,7 @@ dd {
 .mt-obr {
     margin-top: 15px;
 }
+
+.card-body.text2 {
+    margin-bottom: 68px;
+}
