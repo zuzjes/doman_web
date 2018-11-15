@@ -5,11 +5,13 @@ h2 {
 .jumbotron{
     background-image: url(background-final.jpg);
     min-height: 80px;
+    margin-bottom: 0px;
+    border-radius: 0px;
 }
 
 body {
     font-family: 'Raleway', sans-serif;
-    background-color: #E9EEF0;
+    background-color: ;
 }
 
 
@@ -55,6 +57,13 @@ dd {
 }
 
 .card-body.text2 {
-    margin-bottom: 68px;
+    margin-bottom: 136px;
 }
 
+.nav-item:hover {
+    background-color: #236175;
+}
+
+.card {
+    border-radius: 0px;
+}
