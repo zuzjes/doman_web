@@ -3,7 +3,7 @@ h2 {
 }
 
 .jumbotron{
-    background-image: url(background-f.jpg);
+    background-image: url(img2.jpg);
     min-height: 80px;
     margin-bottom: 0px;
     border-radius: 0px;
@@ -57,7 +57,7 @@ dd {
 }
 
 .card-body.text2 {
-    margin-bottom: 125px;
+    margin-bottom: 72px;
 }
 
 .nav-item:hover {
